@@ -1,17 +1,15 @@
-<table>
-<tr id='first' >
-    <td  colspan="2">
-        <div>
+<!--Upper Header Layer Starts-->
+        <div class="first-header">
+          <div class="first-header-items">
             <img src='./icons/telephone.png'>
             <span>+977-9861111111</span>
             <img src='./icons/mail.png'>
             <span>Example@gmail.com</span>
+          </div>
         </div>
-    </td>
-</tr>
-</table>
+<!--Upper Header Layer Ends-->
 
-
+<!-- Mid Header Layer Starts-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -36,3 +34,17 @@
     </div>
   </div>
 </nav>
+<!-- Mid Header Layer Ends-->
+
+<!-- Lower Header Layer Starts-->
+<nav class="navbar">
+      <div class="navbar-items">
+        <a href="#">ELECTRONICS</a>
+        <a href="#">WEARS</a>
+        <a href="#">FOODS</a>
+        <a href="#">SHOES</a>
+        <a href="#">MEDICARE</a>
+      </div>
+</nav>
+
+<!-- Lower Header Layer Ends-->
