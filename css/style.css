@@ -32,14 +32,23 @@ svg {
 }
 /*-------first header Ends-----*/
 
-/*-----third header-----*/
+/*-----Second header starts----*/
+.second-header {
+	padding: 6px 10px;
+	padding-left: 15px;
+}
+.second-header-logo {
+}
+.search-bar {
+}
+/*-----third header starts-----*/
 .navbar {
 	background-color: #555555;
 	width: 100%;
-	height: 50px;
+	height: 52px;
 }
 .navbar-items {
-	padding-top: 10px 10px;
+	padding: 6px 12px;
 	padding-left: 200px;
 }
 .navbar-items a {
@@ -48,10 +57,11 @@ svg {
 	color: rgb(255, 255, 255);
 	letter-spacing: 4px;
 	font-size: 18px;
-	margin-left: 60;
 	transition: ease-out 0.3s;
+	margin: 35px;
 }
 .navbar-items a:hover {
 	color: #fad02c;
 	cursor: pointer;
 }
+/*-----third header Ends-----*/
