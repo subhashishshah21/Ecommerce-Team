@@ -17,7 +17,10 @@
     Primeval
   </div>
   <div class="search-bar">
-    <input type="text" id="searchbar" name="searchbar" placeholder="Type in to search">
+    <input type="text" id="searchbar" class="search-bar" name="searchbar" placeholder="Search....">
+    <div class="btn-search">
+    <img src="./icons/search.png">
+    </div>
   </div>
 
 </div>
