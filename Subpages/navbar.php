@@ -1,15 +1,13 @@
-<table>
-<tr id='first' >
-    <td  colspan="2">
-        <div>
+<!-- Upper Header Layer Starts -->
+        <div class="first-header">
+          <div class="first-header-items" >
             <img src='./icons/telephone.png'>
             <span>+977-9861111111</span>
             <img src='./icons/mail.png'>
             <span>Example@gmail.com</span>
+          </div>
         </div>
-    </td>
-</tr>
-</table>
+<!-- Upper Header Layer Ends -->
 
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
