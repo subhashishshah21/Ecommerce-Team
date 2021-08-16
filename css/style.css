@@ -33,49 +33,88 @@ svg {
 /*-------first header Ends-----*/
 
 /*-----Second header starts----*/
-.second-header {
-	padding: 6px 10px;
+.second-header ul {
+	display: flex;
+	list-style: none;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 20px;
 	padding-left: 15px;
 }
-.second-header-logo {
+.second-header .logo {
+	display: flex;
+	flex-wrap: wrap;
+	left: 0;
+	color: #1e1e1e;
+	font-size: 20px;
+	font-weight: 500;
 }
-.search-bar {
-	margin: 10px 30px;
-	position: relative;
-	width: 500px;
-	height: 35px;
+
+.second-header ul li {
+	display: inline-flex;
+	margin-left: 90px;
+	font-weight: 50px;
 }
-.search-bar img {
-	position: absolute;
-	top: 0;
-	right: 0;
-	width: 50px;
-	height: 100%;
-	background: #fff;
-	z-index: 1;
-	cursor: pointer;
+.second-header ul .search-bar {
+	width: 600px;
+	height: 30px;
+	display: flex;
+	background: #f2f2f2;
+	border: 1px solid #cccccc;
+	border-radius: 5px;
 }
+.second-header ul .search-bar input {
+	width: 600px;
+	height: 28px;
+	border: 1px;
+	padding: 5px 10px;
+	font-size: 14px;
+	border-radius: 5px 0 0 5px;
+}
+.second-header ul .search-bar .icon .fa {
+	height: 91%;
+	width: 40px;
+	line-height: 1;
+	text-align: center;
+	font-size: 18px;
+	color: rgb(241, 55, 55);
+	background: rgb(252, 252, 252);
+	border: 1px;
+	border-radius: 0 5px 5px 0;
+}
+
+/* .second-header ul .search-bar .icon .fa:hover {
+	background: #ffb600;
+} */
 /*-----third header starts-----*/
 .navbar {
 	background-color: #555555;
 	width: 100%;
-	height: 52px;
+	height: 50px;
+}
+nav ul {
+	display: flex;
+	list-style: none;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
 }
 .navbar-items {
+	display: inline-flex;
 	padding: 6px 12px;
 	padding-left: 200px;
 }
 .navbar-items a {
 	text-decoration: none;
+	font-size: 18px;
 	font-family: "Montserrat-Semi-bold", sans-serif;
 	color: rgb(255, 255, 255);
 	letter-spacing: 4px;
-	font-size: 18px;
 	transition: ease-out 0.3s;
 	margin: 35px;
 }
 .navbar-items a:hover {
-	color: #fad02c;
+	color: #ffb600;
 	cursor: pointer;
 }
 /*-----third header Ends-----*/
