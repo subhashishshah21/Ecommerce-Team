@@ -12,16 +12,17 @@ body {
 
 /*-------first header Starts-----*/
 .first-header {
-	background-color: #1e1e1e;
+	background-color: #FFFFFF;
 	width: 100%;
 	height: 40px;
+	border-bottom: 1px solid #cfcfce;
 }
 .first-header-items {
 	padding: 6px 10px;
 	padding-left: 15px;
 }
 .first-header-items span {
-	color: rgb(255, 255, 255);
+	color: #000000;
 	font-family: "Montserrat-light", sans-serif;
 	font-size: 14px;
 }
@@ -30,6 +31,33 @@ svg {
 	vertical-align: middle;
 	margin-left: 20px;
 }
+.fb{
+	/*position: relative;*/
+	margin-left: 900px;
+	width: 100%x;
+	height: 20px;
+}.yt{
+	/*position: relative;*/
+	margin-left: 25px;
+	width: 100%x;
+	height: 20px;
+}.insta{
+	/*position: relative;*/
+	margin-left: 25px;
+	width: 100%x;
+	height: 20px;
+}
+/*.insta{*/
+/*	margin-left: 975px;*/
+/*	width: 100%;*/
+/*	height: 20px;*/
+/*}*/
+/*.yt*/
+/*{*/
+/*	margin-left: 1000px;*/
+/*	width: 100%;*/
+/*	height: 20px;*/
+/*}*/
 /*-------first header Ends-----*/
 
 /*-----Second header starts----*/

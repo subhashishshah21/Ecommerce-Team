@@ -7,6 +7,10 @@
             <span>+977-9861111111</span>
             <img src='./icons/mail.png'>
             <span>Example@gmail.com</span>
+              <img class="fb" src="./icons/facebook.png" alt="">
+             <img class="yt" src="./icons/youtube.png" alt="">
+             <img class="insta" src="./icons/instagram.png" alt="">
+
           </div>
         </div>
 <!--Upper Header Layer Ends-->
