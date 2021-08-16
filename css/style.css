@@ -12,23 +12,46 @@ body {
 
 /*-------first header Starts-----*/
 .first-header {
-	background-color: #1e1e1e;
+	background-color: #fff;
+	display: inline-flex;
 	width: 100%;
 	height: 40px;
 }
-.first-header-items {
+.first-header-items1 {
 	padding: 6px 10px;
 	padding-left: 15px;
 }
-.first-header-items span {
-	color: rgb(255, 255, 255);
+.first-header-items1 span {
+	color: #000;
 	font-family: "Montserrat-light", sans-serif;
 	font-size: 14px;
 }
-img,
+.first-header .first-header-items1 img {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+	width: 20px;
+}
+/* img,
 svg {
 	vertical-align: middle;
 	margin-left: 20px;
+	width: 20px;
+} */
+.first-header .first-header-items2 img {
+	display: inline-flex;
+	justify-content: right;
+	float: right;
+	width: 25px;
+	margin: 8px;
+}
+.first-header::after {
+	content: "";
+	clear: both;
+	display: inline;
+}
+.first-header-items2 img:hover {
+	transform: scale(1.4);
 }
 /*-------first header Ends-----*/
 
@@ -40,14 +63,13 @@ svg {
 	justify-content: center;
 	padding-top: 20px;
 	padding-left: 15px;
+	border-top: 1px solid #cccccc;
 }
-.second-header .logo {
-	display: flex;
-	flex-wrap: wrap;
-	left: 0;
-	color: #1e1e1e;
-	font-size: 20px;
-	font-weight: 500;
+.logo {
+	/* display: flex; */
+	/* flex-wrap: wrap;
+	left: 0; */
+	width: 150px;
 }
 
 .second-header ul li {
@@ -77,15 +99,20 @@ svg {
 	line-height: 1;
 	text-align: center;
 	font-size: 18px;
-	color: rgb(241, 55, 55);
+	color: #ffb600;
 	background: rgb(252, 252, 252);
 	border: 1px;
 	border-radius: 0 5px 5px 0;
 }
 
-/* .second-header ul .search-bar .icon .fa:hover {
-	background: #ffb600;
-} */
+.second-header ul li .cart {
+	width: 25px;
+	height: 25px;
+}
+.second-header ul li .login {
+	width: 30px;
+	height: 30px;
+}
 /*-----third header starts-----*/
 .navbar {
 	background-color: #555555;
@@ -102,7 +129,7 @@ nav ul {
 .navbar-items {
 	display: inline-flex;
 	padding: 6px 12px;
-	padding-left: 200px;
+	padding-left: 250px;
 }
 .navbar-items a {
 	text-decoration: none;
@@ -111,7 +138,7 @@ nav ul {
 	color: rgb(255, 255, 255);
 	letter-spacing: 4px;
 	transition: ease-out 0.3s;
-	margin: 35px;
+	margin: 45px;
 }
 .navbar-items a:hover {
 	color: #ffb600;

@@ -2,30 +2,35 @@
 
 <!--Upper Header Layer Starts-->
 <div class="first-header">
-          <div class="first-header-items">
-            <img src='./icons/telephone.png'>
-            <span>+977-9861111111</span>
-            <img src='./icons/mail.png'>
-            <span>Example@gmail.com</span>
-          </div>
-        </div>
+    <div class="first-header-items1">
+        <img src='./icons/call.png' class="phone">
+        <span>+977-9841023456 / 9851234567</span>
+        <img src='./icons/envelope.png'>
+        <span>Example@gmail.com</span>
+    </div>
+    <span class="first-header-items2">
+        <img src='./icons/facebook.png' class="media">
+        <img src='./icons/instagram.png' class="media">
+        <img src='./icons/youtube.png' class="media">
+    </span>
+</div>
 <!--Upper Header Layer Ends-->
 
 <!-- Mid Header Layer Starts-->
 <div class="second-header">
   <ul>
-    <li class="logo">Primeval</li>
+    <li class="logo"><img src="./icons/PrimevalLogoFullBlack.png"></li>
     <li class="search-bar">
-      <input type="text" id="searchbar" class="search-bar-input" name="searchbar" placeholder="FIND A SERVICE..">
+      <input type="text" id="searchbar" class="search-bar-input" name="searchbar" placeholder="FIND A SERVICE......">
       <label class="icon">
         <i class="fa fa-search" aria-hidden="true"></i>
       </label>
     </li>
     <li class="login">
-      LOG IN 
+    <img src="./icons/user.png" class="cart">
     </li>
     <li>
-      cart 
+      <img src="./icons/shopping-cart.png" class="cart">
     </li>
   </ul>
 </div>
@@ -37,11 +42,10 @@
 <nav class="navbar">
   <ul> 
       <div class="navbar-items">
+        <li><a href="#">HOME</a></li>
         <li><a href="#">ELECTRONICS</a></li>
         <li><a href="#">WEARS</a></li>
         <li><a href="#">FOODS</a></li>
-        <li><a href="#">SHOES</a></li>
-        <li><a href="#">MEDICARE</a></li>
       </div>
   </ul>
 </nav>

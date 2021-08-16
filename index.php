@@ -14,6 +14,7 @@
     <?php
 
     include('Subpages/navbar.php');
+    include('Subpages/home.php');
 
 ?>
 </body>
