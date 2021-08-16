@@ -3,13 +3,14 @@
 <!--Upper Header Layer Starts-->
 <div class="first-header">
           <div class="first-header-items">
-            <img src='./icons/telephone.png'>
+              <img src='./icons/call.png'>
             <span>+977-9861111111</span>
-            <img src='./icons/mail.png'>
+            <img src='./icons/envelope.png'>
             <span>Example@gmail.com</span>
-              <img class="fb" src="./icons/facebook.png" alt="">
-             <img class="yt" src="./icons/youtube.png" alt="">
-             <img class="insta" src="./icons/instagram.png" alt="">
+              <a href=""><img class="fb" src="./icons/facebook.png" alt=""></a>
+              <a href=""><img class="insta" src="./icons/instagram.png" alt=""></a>
+              <a href=""><img class="yt" src="./icons/youtube.png" alt=""></a>
+
 
           </div>
         </div>

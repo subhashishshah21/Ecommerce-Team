@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5503cf01-663e-4039-b871-e6a9db564656" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/icons/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/envelope.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Subpages/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Subpages/navbar.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
@@ -47,7 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1629026543228</updated>
       <workItem from="1629026544683" duration="1699000" />
-      <workItem from="1629112485906" duration="3863000" />
+      <workItem from="1629112485906" duration="4150000" />
+      <workItem from="1629119571720" duration="1475000" />
     </task>
     <servers />
   </component>
