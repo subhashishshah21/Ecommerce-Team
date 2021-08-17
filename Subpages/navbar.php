@@ -4,7 +4,7 @@
 <div class="first-header">
     <div class="first-header-items1">
         <img src='./icons/call.png' class="phone">
-        <span>+977-9841023456 / 9851234567</span>
+        <span>+977 - 9841023456 / 9851234567</span>
         <img src='./icons/envelope.png'>
         <span>Example@gmail.com</span>
     </div>
@@ -26,8 +26,8 @@
         <i class="fa fa-search" aria-hidden="true"></i>
       </label>
     </li>
-    <li class="login">
-    <img src="./icons/user.png" class="cart">
+    <li >
+    <img src="./icons/user.png" class="login" >
     </li>
     <li>
       <img src="./icons/shopping-cart.png" class="cart">

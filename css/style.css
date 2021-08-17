@@ -18,8 +18,9 @@ body {
 	height: 40px;
 }
 .first-header-items1 {
+	position: absolute;
 	padding: 6px 10px;
-	padding-left: 15px;
+	left: 5%;
 }
 .first-header-items1 span {
 	color: #000;
@@ -29,21 +30,26 @@ body {
 .first-header .first-header-items1 img {
 	display: inline-block;
 	vertical-align: middle;
-	margin-left: 20px;
+	margin: 5px;
 	width: 20px;
+	padding: 1px;
 }
-/* img,
+img,
 svg {
 	vertical-align: middle;
-	margin-left: 20px;
-	width: 20px;
-} */
+	max-width: 140px;
+}
+.first-header .first-header-items2 {
+	position: absolute;
+	display: flex;
+	right: 10%;
+}
 .first-header .first-header-items2 img {
 	display: inline-flex;
 	justify-content: right;
-	float: right;
 	width: 25px;
 	margin: 8px;
+	padding: 2px;
 }
 .first-header::after {
 	content: "";
@@ -106,13 +112,17 @@ svg {
 }
 
 .second-header ul li .cart {
+	position: relative;
+	right: 70px;
 	width: 25px;
 	height: 25px;
 }
 .second-header ul li .login {
+	position: relative;
 	width: 30px;
 	height: 30px;
 }
+
 /*-----third header starts-----*/
 .navbar {
 	background-color: #555555;

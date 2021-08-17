@@ -1,0 +1,34 @@
+Dark Black - #1e1e1e
+Light Black - #555555
+Hover Yellow - #ffb600
+
+Font Category Navbar - Montserrat - SemiBold
+Font Category Top - Montserrat - Light
+
+.search-bar-input {
+	width: 500px;
+	height: 35px;
+	padding: 10px 20px;
+	font-size: 18px;
+}
+
+.search-bar .btn-search {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: #ffb600;
+	width: 40px;
+	height: 35px;
+	z-index: 5;
+	cursor: pointer;
+}
+.search-bar .btn-search:hover {
+	background: #ffb70094;
+}
+.search-bar .btn-search .fas .fa-search {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #fff;
+}
