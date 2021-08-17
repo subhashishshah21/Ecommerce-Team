@@ -102,11 +102,11 @@ svg {
 .second-header ul .search-bar .icon .fa {
 	height: 91%;
 	width: 40px;
-	line-height: 1;
+	line-height: 1.5;
 	text-align: center;
 	font-size: 18px;
 	color: #ffb600;
-	background: rgb(252, 252, 252);
+	background: #fff;
 	border: 1px;
 	border-radius: 0 5px 5px 0;
 }
