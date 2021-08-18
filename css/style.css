@@ -12,12 +12,16 @@ body {
 
 /*-------first header Starts-----*/
 .first-header {
+	display: flex;
+	justify-content: space-evenly;
+
 	background-color: #FFFFFF;
 	width: 100%;
 	height: 40px;
 	border-bottom: 1px solid #cfcfce;
 }
 .first-header-items {
+	flex-grow: 1;
 	padding: 6px 10px;
 	padding-left: 15px;
 }
@@ -30,24 +34,22 @@ body {
 	font-family: "Montserrat-light", sans-serif;
 	font-size: 14px;
 }
+.first-header-second-items{
+	flex-grow: 2;
+	padding-left: 800px;
+}
+.first-header-second-items img{
+
+	margin-top: 5px;
+	height: 20px;
+	width: 20px;
+}
 img,
 svg {
 	vertical-align: middle;
 	margin-left: 20px;
 }
-.fb{
-	/*position: relative;*/
-	margin-left: 900px;
 
-}.yt{
-	/*position: relative;*/
-	margin-left: 25px;
-
-}.insta{
-	/*position: relative;*/
-	margin-left: 25px;
-
-}
 
 /*-------first header Ends-----*/
 
@@ -67,6 +69,7 @@ svg {
 	color: #1e1e1e;
 	font-size: 20px;
 	font-weight: 500;
+	/*margin-right: 75px;*/
 }
 
 .second-header ul li {
@@ -122,18 +125,21 @@ nav ul {
 	display: inline-flex;
 	padding: 6px 12px;
 	padding-left: 200px;
+
 }
 .navbar-items a {
 	text-decoration: none;
-	font-size: 18px;
+	font-size: 13px;
 	font-family: "Montserrat-Semi-bold", sans-serif;
 	color: rgb(255, 255, 255);
 	letter-spacing: 4px;
 	transition: ease-out 0.3s;
 	margin: 35px;
+
 }
 .navbar-items a:hover {
 	color: #ffb600;
 	cursor: pointer;
+	text-decoration: none;
 }
 /*-----third header Ends-----*/

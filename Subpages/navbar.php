@@ -1,25 +1,25 @@
 
 
 <!--Upper Header Layer Starts-->
-<div class="first-header">
+<div style="width: 100%" class="first-header">
           <div class="first-header-items">
               <img src='./icons/call.png'>
             <span>+977-9861111111</span>
             <img src='./icons/envelope.png'>
             <span>Example@gmail.com</span>
-              <a href=""><img class="fb" src="./icons/facebook.png" alt=""></a>
-              <a href=""><img class="insta" src="./icons/instagram.png" alt=""></a>
-              <a href=""><img class="yt" src="./icons/youtube.png" alt=""></a>
-
-
           </div>
+        <div style="" class="first-header-second-items">
+        <a  href=""><img class="fb" src="./icons/facebook.png" alt=""></a>
+        <a href=""><img class="insta" src="./icons/instagram.png" alt=""></a>
+        <a href=""><img class="yt" src="./icons/youtube.png" alt=""></a>
         </div>
+</div>
 <!--Upper Header Layer Ends-->
 
 <!-- Mid Header Layer Starts-->
 <div class="second-header">
   <ul>
-    <li class="logo">Primeval</li>
+    <li  class="logo"><a href=""><img width="100px" height="30px" src="icons/Plogo.png" alt=""></a></li>
     <li class="search-bar">
       <input type="text" id="searchbar" class="search-bar-input" name="searchbar" placeholder="FIND A SERVICE..">
       <label class="icon">
