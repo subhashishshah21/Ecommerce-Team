@@ -1,32 +1,28 @@
 
-<!-- <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    </div>
+
+<!-- <h1>Helo</h1>
+
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" >
     <div class="carousel-inner">
     <div class="carousel-item active">
-        <img src="C:\xampp\htdocs\Ecommerce-Team\images\DarkAvenger.jpg" class="d-block w-100" alt="Dark Avenger">
+        <img src="images\DarkAvenger.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-        <img src="C:\xampp\htdocs\Ecommerce-Team\images\Home Page Cover.jpg" class="d-block w-100" alt="homepage">
+        <img src="..." class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
         <img src="..." class="d-block w-100" alt="...">
     </div>
     </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
     </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
     </button>
 </div> -->
-
-<h1>Helo</h1>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -34,7 +30,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-top : 50px;">
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -42,7 +38,7 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="/images/DarkAvenger.jpg" alt="First slide">
+            <img class="d-block w-100" src="images\DarkAvenger.jpg" alt="First slide" width=100%>
             <div class="carousel-caption d-none d-md-block">
                 <h5>My Caption Title (1st Image)</h5>
                 <p>The whole caption will only show up if the screen is at least medium size.</p>
