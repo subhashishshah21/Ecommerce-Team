@@ -20,8 +20,13 @@
 
     include('Subpages/navbar.php');
     include('Subpages/slider.php');
+<<<<<<< HEAD
     include('Subpages/footer.php');
 
+=======
+
+    include ('Subpages/footer.php');
+>>>>>>> 40086e1a561a609c34b406e30aa4284676901e3b
 ?>
 <!--    js bootstrap-->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

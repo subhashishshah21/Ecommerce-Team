@@ -138,3 +138,37 @@ nav ul {
 	text-decoration: none;
 }
 /*-----third header Ends-----*/
+
+/*css of footer starts here*/
+.ctn-1{
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background-color: #1e1e1e;
+	color: #FFFFFF;
+	height: 300px;
+	justify-content: space-evenly;
+	font-family: Montserrat - Regular;
+	align-items: baseline;
+
+}
+.newletter{
+	width: 250px;
+}
+.btn-signup{
+	font-family: "Montserrat-light", sans-serif;
+	padding: 4px 8px;
+	color: white;
+	background-color: yellow;
+
+}
+.location{
+	display: flex;
+	flex-direction: column;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.social{
+	width: 10px;
+	height: 10px;
+}

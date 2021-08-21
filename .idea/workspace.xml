@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5503cf01-663e-4039-b871-e6a9db564656" name="Default Changelist" comment="" />
+    <list default="true" id="5503cf01-663e-4039-b871-e6a9db564656" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Subpages/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/facebook (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/instagram (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/youtube1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,14 +36,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/icons" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\Ecommerce-Team\images" />
       <recent name="C:\xampp\htdocs\Ecommerce-Team\icons" />
+      <recent name="C:\xampp\htdocs\Ecommerce-Team\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,6 +59,9 @@
       <workItem from="1629119571720" duration="1475000" />
       <workItem from="1629255501369" duration="4959000" />
       <workItem from="1629302886008" duration="80000" />
+      <workItem from="1629303960311" duration="1097000" />
+      <workItem from="1629338720047" duration="82000" />
+      <workItem from="1629364979338" duration="3647000" />
     </task>
     <servers />
   </component>
@@ -69,9 +80,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="475" y="60" key="#PHP/0.0.1536.834@0.0.1536.834" timestamp="1629026585612" />
-    <state x="604" y="340" key="NewPhpFileDialog" timestamp="1629255558579">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1629338795528">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="604" y="340" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1629255558579" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1629338795528" />
+    <state x="604" y="340" key="NewPhpFileDialog" timestamp="1629364991328">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="604" y="340" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1629364991328" />
   </component>
 </project>
