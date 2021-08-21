@@ -14,8 +14,7 @@ body {
 .first-header {
 	display: flex;
 	justify-content: space-evenly;
-
-	background-color: #FFFFFF;
+	background-color: #ffffff;
 	width: 100%;
 	height: 40px;
 	border-bottom: 1px solid #cfcfce;
@@ -34,12 +33,11 @@ body {
 	font-family: "Montserrat-light", sans-serif;
 	font-size: 14px;
 }
-.first-header-second-items{
+.first-header-second-items {
 	flex-grow: 2;
 	padding-left: 800px;
 }
-.first-header-second-items img{
-
+.first-header-second-items img {
 	margin-top: 5px;
 	height: 20px;
 	width: 20px;
@@ -49,7 +47,6 @@ svg {
 	vertical-align: middle;
 	margin-left: 20px;
 }
-
 
 /*-------first header Ends-----*/
 
@@ -125,7 +122,6 @@ nav ul {
 	display: inline-flex;
 	padding: 6px 12px;
 	padding-left: 200px;
-
 }
 .navbar-items a {
 	text-decoration: none;
@@ -135,7 +131,6 @@ nav ul {
 	letter-spacing: 4px;
 	transition: ease-out 0.3s;
 	margin: 35px;
-
 }
 .navbar-items a:hover {
 	color: #ffb600;

@@ -1,0 +1,88 @@
+<!-- Footer -->
+
+<div class="footer">
+<div class="footer-items" >
+    <div class="newsletter">
+        <ul>
+            <li><h5>NEWSLETTER</h5></li>
+            <li><P> Subscribe Now to get <span>5% OFF </span> on your Next purchase.</p></li>
+            <form action="newsletter.php">
+            <li>
+                <label>
+                <input type="text">
+                <button class="subscribe" type="submit" class="subscribe-btn"><p>Subscribe</p> </button>
+                </label>
+            </li>
+            </form>
+        </ul>
+    </div>
+    <div class="categories">
+        <ul>
+            <li><h5>CATEGORIES</h5></li>
+            <li><a href="reward.php">Reward Shop</a></li>
+            <li> <a href="electronics.php">Electronics</a></li>
+            <li> <a href="customer review">Customer Review</a></li>
+            <li> <a href="upcoming"> Upcomming</a></li>
+        </ul>
+    </div>
+    <div class="information">
+        <ul>
+            <li><h5>INFORMATION</h5></li>
+            <li> <a href="aboutus.php">About Us</a></li>
+            <li> <a href="contactus.php">Contact Us</a></li>
+            <li> <a href="order.php">Order and Return</a></li>
+            <li><a href="terms&condition.php">Terms and Condition</a></li>
+        </ul>
+    </div>
+    <div class="Location">
+        <ul>
+            <li><h5>LOCATION</h5></li>
+            <li>
+                <img src="icons/location.png" class="footer-icons" alt="location">&nbsp
+                <span> Sankhamul, New Baneshwor</span>
+            </li>
+            <li>
+                <img src="icons\call_red .png" class="footer-icons" alt="phone">&nbsp
+                <span> +977-98xxxxxxxx / xxxxxxx</span>
+            </li>
+            <li>
+                <img src="icons\envelope.png" class="footer-icons" alt="envelope">&nbsp
+                <span>sample@example.com</span></li>
+        </ul>
+    </div>
+
+    <div class="social">
+        <ul>
+            <li><h5>SOCIAL</h5></li>
+            <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+            <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+        </ul>
+    </div>
+</div>
+</div>
+
+
+<!------- Bot footer ---- -->
+<div class="footer-bot">
+    <div class="footer-bot-items">
+        <div class="footer-images">
+            <ul>
+                <li><a href="COD.com"><img src="icons\cashondeliverybagde.png" alt="khalti"></a></li>
+                <li><a href="e-sewa.com"><img src="icons\Esewa-Remittance-Payment.png" alt="e-sewa"></a></li>
+                <li><a href="khalti.com"><img src="icons\Khalti_Digital_Wallet_Logo.png" alt="khalti"></a></li>
+                <li><a href="fonepay.com"><img src="icons\cashondeliverybagde.png" alt="khalti"></a></li>
+                <li><a href="mastercard.com"><img src="icons\MasterCard_Logo.svg.png" alt="mastercard"></a></li>
+                <li><a href="visa.com"><img src="icons\Visa_Logo.png" alt="visa"></a></li>
+            </ul>
+        </div>
+        <div class="copyright">
+        <p >Copyright @2021 All rights reserved. &nbsp Privacy Policy Term of use</p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
