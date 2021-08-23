@@ -38,15 +38,15 @@
     <div class="Location">
         <ul>
             <li><h5>LOCATION</h5></li>
-            <li>
+            <li class="location-list">
                 <img src="icons/location.png" class="footer-icons" alt="location">&nbsp
                 <span> Sankhamul, New Baneshwor</span>
             </li>
-            <li>
+            <li class="location-list">
                 <img src="icons\call_red .png" class="footer-icons" alt="phone">&nbsp
                 <span> +977-98xxxxxxxx / xxxxxxx</span>
             </li>
-            <li>
+            <li class="location-list">
                 <img src="icons\envelope.png" class="footer-icons" alt="envelope">&nbsp
                 <span>sample@example.com</span></li>
         </ul>
