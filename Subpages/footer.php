@@ -39,16 +39,17 @@
         <ul>
             <li><h5>LOCATION</h5></li>
             <li class="location-list">
-                <img src="icons/location.png" class="footer-icons" alt="location">&nbsp
-                <span> Sankhamul, New Baneshwor</span>
+                <a href="#"><img src="icons/location.png" class="footer-icons" alt="location">&nbsp
+                <span> Sankhamul, New Baneshwor</span></a> 
             </li>
             <li class="location-list">
-                <img src="icons\call_red .png" class="footer-icons" alt="phone">&nbsp
-                <span> +977-98xxxxxxxx / xxxxxxx</span>
+                <a href=""><img src="icons\call_red .png" class="footer-icons" alt="phone">&nbsp
+                <span> +977-98xxxxxxxx / xxxxxxx</span> </a>   
             </li>
             <li class="location-list">
-                <img src="icons\envelope.png" class="footer-icons" alt="envelope">&nbsp
-                <span>sample@example.com</span></li>
+                <a href=""><img src="icons\envelope.png" class="footer-icons" alt="envelope">&nbsp
+                <span>sample@example.com</span></a> 
+            </li>
         </ul>
     </div>
 
@@ -72,7 +73,7 @@
                 <li><a href="COD.com"><img src="icons\cashondeliverybagde.png" alt="khalti"></a></li>
                 <li><a href="e-sewa.com"><img src="icons\Esewa-Remittance-Payment.png" alt="e-sewa"></a></li>
                 <li><a href="khalti.com"><img src="icons\Khalti_Digital_Wallet_Logo.png" alt="khalti"></a></li>
-                <li><a href="fonepay.com"><img src="icons\cashondeliverybagde.png" alt="khalti"></a></li>
+                <li><a href="fonepay.com"><img src="icons\fonepay.png" alt="khalti"></a></li>
                 <li><a href="mastercard.com"><img src="icons\MasterCard_Logo.svg.png" alt="mastercard"></a></li>
                 <li><a href="visa.com"><img src="icons\Visa_Logo.png" alt="visa"></a></li>
             </ul>
@@ -87,7 +88,7 @@
 
 
 
-=======
+<!-- =======
 
 <div class="ctn-1">
 
@@ -114,4 +115,4 @@
         <h3>PAYMENT</h3>
     </div>
 </div>
->>>>>>> 40086e1a561a609c34b406e30aa4284676901e3b
+>>>>>>> 40086e1a561a609c34b406e30aa4284676901e3b -->
